@@ -1,4 +1,4 @@
-# In progress 
+#### IN PROGRESS ####
 
 import os
 import sys
@@ -22,11 +22,11 @@ input_folder = output_folder = os.getcwd()
 print("Using " + input_folder + " as the current directory ")
 
 # remove processed files
-delete_input_file = True
+# delete_input_file = True
 
 
 # remove substring 
-substring = "_h265"
+# substring = "_h265"
 
 # containers type list
 container_extensions = [".m4v", ".mp4", ".mov", ".webm"]
